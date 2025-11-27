@@ -6,7 +6,7 @@
   },
   "pool": {
     "update": false,
-    "hash": "b103f6b46b79a9dfeac45401ef75734842253382",
+    "hash": "99",
     "url": "https://raw.githubusercontent.com/mmvp0410-max/pool/refs/heads/main/main.js"
   },
   "archery": {
