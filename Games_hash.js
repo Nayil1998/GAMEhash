@@ -1,7 +1,7 @@
 {
   "bounce": {
     "update": true,
-    "hash": "b4b91d025326eb10f25ad1f3030f7b35abca60d9b4b91d025326eb10f25ad1f3030f7b35abca60d9",
+    "hash": "b4b91d025326eb10f25ad1f3030f7b35abca60d9",
     "url": "https://raw.githubusercontent.com/mmvp0410-max/Bounce/refs/heads/main/main.js"
   },
   "pool": {
