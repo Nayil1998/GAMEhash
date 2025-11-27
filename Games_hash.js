@@ -5,7 +5,7 @@
     "url": "https://raw.githubusercontent.com/mmvp0410-max/Bounce/refs/heads/main/main.js"
   },
   "pool": {
-    "update": false,
+    "update": true,
     "hash": "99",
     "url": "https://raw.githubusercontent.com/mmvp0410-max/pool/refs/heads/main/main.js"
   },
